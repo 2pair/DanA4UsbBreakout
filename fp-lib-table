@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DanA4UsbBreakout)(type KiCad)(uri ${KIPRJMOD}/DanA4UsbBreakout.pretty)(options "")(descr ""))
+)

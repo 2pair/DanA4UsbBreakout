@@ -1,0 +1,9 @@
+### Module positions - created on 10/15/20 21:52:10 ###
+### Printed by Pcbnew version kicad (5.1.7)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                     PosX       PosY       Rot  Side
+J1        Conn_2Rows-09Pins  Harwin_2x5_female_header_M20-7920542R    58.6740   -47.4980  180.0000  top
+J2        USB_A              Wurth_USB-A_629104190121                 54.6100   -26.4160   90.0000  top
+J3        USB_A              Wurth_USB-A_629104190121                 52.5780   -36.0680  270.0000  top
+## End
